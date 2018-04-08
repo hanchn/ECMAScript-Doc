@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>数据字典</title>
+</head>
+<body>
+  
+</body>
+</html>
+<script>
+  /*
+  数据字典其实是其他语言中的叫法，我们在JS中称之为JSON格式的
+  对象。
+  数据字典是由成对的花括号包裹，并且显式显示键值对，例：
+  */
+
+  var dict = {
+    name: 'test' // name 为key， ‘test’为value
+  }
+
+  /*
+  我们也可以利用如下方式进行对象的创建
+  */
+  var obj = new Object();
+
+  /*
+  属性拓展：用逗号进行隔开，键名不可重复.
+  赋值：用对象名+成对中括号形式进行拓展，如下例
+  */
+
+  var test = {
+    aa: 1,
+    bb: 'aaa',
+    cc: 'test'
+  }
+
+  test['test'] = '123';
+
+  /*
+  取值，和数组类似
+  */
+
+  console.log(test['test']);
+
+
+
+
+</script>

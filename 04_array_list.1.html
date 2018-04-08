@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>数组对象</title>
+</head>
+<body>
+  
+</body>
+</html>
+<script>
+/*
+   对象：拥有属性特征的数据结构
+   在JS中，除了基础类型外，其他都是对象
+   JS中有两种基础的数据对象，他们分别是
+   1. 数组（我们在其他语言中称为列表），数组是指一组值，用成对的
+   中括号包裹，数组中拥有两个基本属性，分别为索引和具体的值组成。
+   数组由数组类构建而成，类的概念我们后期再说。
+   Array为数组类用于通过new去构建数组例：
+*/
+
+var arr = new Array(); // 
+
+/*
+语法糖是指用简写的方式去写代码，我们用以下简短方式进行数组创建
+*/
+var newArr = []; 
+
+/*
+为数组赋值
+*/
+
+arr = [1, 2, 3, 4, 5];
+
+/*
+计算机中的数据结构通常存在一个用于计算当前值所处位置的值，我们称之为
+索引，计算机中的索引是从0开始的，而并非我们十进制中的一。例如上面例子
+中的数组，第0位的值为1，第1位的值为2，以此类推。
+
+我们也可以根据索引进行取值，取值方式是以数组名加上中括号，中括号中填
+写的是数组的索引位。
+*/
+
+console.log(arr[0]); //得到1
+
+</script>
