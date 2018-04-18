@@ -22,19 +22,6 @@
 * [prototype](#prototype)
 * [this](#this)
 
-### 初识JS
-
-Javascript（缩写为JS）是一种弱类型、解释型语言，是ECMAScript标准的实现。
-JavaScript创建者Brendan Eich，仅花了10天时间就把这么语言设计出来，主要
-借鉴参考了Java语言的部分特性，仓促的设计使得这门语言在后期十几年一直饱受诟
-病。   
-
-不过话虽如此，JS也为web开发注入了新的生机，使得web开发生态变得非常有趣。
-JS也因此成为了榜上有名比较火热的开发语言，那么我们接下来就来尝试自己写一个
-JS小示例。
-
-我们需要在HTML网页内部任何位置放置一个成对的script标签，用于让搜索引擎识别
-JS语言。
 
 #### Hello World !
 
@@ -136,8 +123,5 @@ var e = undefined;
    var b = '20';
    console.log(a - b); // -10
    ```     
-
-  
-  
 
 **[回到目录](#目录)**  
