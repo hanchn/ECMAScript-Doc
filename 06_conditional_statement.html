@@ -64,5 +64,19 @@ switch 条件筛选判断语句
 常用于针对条件做筛选处理，并执行相关语句
 */
 
-var grade = 
+var grade = 80;
+switch(grade){
+  case grade == 100: 
+    console.log("100分");
+    break;
+  case 100 > grade >70:
+    console.log("优秀");
+    break;
+  case 60 <grade < 70:
+    console.log("及格");
+    break;  
+  default:
+    console.log("不及格！");
+    break;  
+}
 </script>
