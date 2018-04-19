@@ -3,12 +3,12 @@
 这是一本介绍Javascript的入门小书，内容丰富简短，从浅层带您快速入门Javascript。
 
 ### 目录
-* [初识JS](#初识js)
-   * [Hello World !](#hello-world-) 
-   * [注释](#注释)   
-* [基础类型](#基础类型)
-   * [变量定义](#变量定义)
-   * [原始类型](#类型)
+* [初识JS](#https://github.com/hanchn/couse-of-Javascript/blob/master/Introduce.md)
+   * [Hello World !](#https://github.com/hanchn/couse-of-Javascript/blob/master/Introduce.md) 
+   * [注释](#https://github.com/hanchn/couse-of-Javascript/blob/master/Comments.md)   
+* [类型](#基础类型)
+   * [变量](#https://github.com/hanchn/couse-of-Javascript/blob/master/Variable.md)
+   * [原始类型](#https://github.com/hanchn/couse-of-Javascript/blob/master/DataType.md)
    * [类型转换](#类型转换)
 * [输出与打印](#输出与打印)
 * [数组列表](#数组列表)
