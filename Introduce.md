@@ -1,6 +1,12 @@
 ## 初识JS
 
-Javascript（缩写为JS）是一种弱类型、解释型语言，是ECMAScript标准的实现。
+Javascript早期被叫做LiveScript，因为当时Sun公司(被甲骨文公司收购)的
+Java比较火。所以网景（Livescript的持有公司Netscape）为了蹭一波热度所
+以将LiveScript改成Javascript。但是由于JavaScript也被甲骨文注册了，
+所有我们一般称JavaScript为JS。
+
+JS是一种解释型、弱类型语言，是基于ECMAScript标准的实现。
+
 JavaScript创建者Brendan Eich，仅花了10天时间就把这么语言设计出来，主要
 借鉴参考了Java语言的部分特性，仓促的设计使得这门语言在后期十几年一直饱受诟
 病。   
