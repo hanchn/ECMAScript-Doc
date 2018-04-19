@@ -1,4 +1,4 @@
-## Hello World !
+## 初识JS
 
 Javascript（缩写为JS）是一种弱类型、解释型语言，是ECMAScript标准的实现。
 JavaScript创建者Brendan Eich，仅花了10天时间就把这么语言设计出来，主要
@@ -50,3 +50,6 @@ require test from 'test'
    alert('Hello World !');
 </script>
 ```
+
+[返回目录](https://github.com/hanchn/couse-of-Javascript)
+[下一篇 注释](https://test.com)
