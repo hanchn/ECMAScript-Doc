@@ -6,7 +6,7 @@
 * [初识JS](https://github.com/hanchn/couse-of-Javascript/blob/master/Introduce.md)
    * [Hello World !](https://github.com/hanchn/couse-of-Javascript/blob/master/Introduce.md) 
    * [注释](https://github.com/hanchn/couse-of-Javascript/blob/master/Comments.md)
-   * [弹窗](#弹窗)
+   * [信息弹窗](#弹窗)
    * [日志打印](#日志打印)
 
 * [类型](https://github.com/hanchn/couse-of-Javascript/blob/master/Variable.md)
