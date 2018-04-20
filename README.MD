@@ -23,17 +23,4 @@
 * [prototype](#prototype)
 * [this](#this)
 
-
-#### 类型转换
-
-不同基础类型之间可以进行相互转换，转换方式有两种，分别为隐式类型转换和显式类型
-转换。
-
-显式类型转换：通过JS内部提供的类型转换方法进行类型转换
-   
-   * 转换为数值类型：Number(mix)、parseInt(string,radix)、parseFloat(string)
-   * 转换为字符串类型：toString(radix)、String(mix)
-   * 转换为布尔类型：Boolean(mix)
-  
-
 **[回到目录](#目录)**  
