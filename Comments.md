@@ -64,5 +64,7 @@ JS中编写注释的方式分为两种，分别为：单行注释和多行注释
 </script>
 ```
 
+[返回目录](https://github.com/hanchn/couse-of-Javascript)
+
 
 

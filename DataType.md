@@ -30,3 +30,4 @@ JS是一门解释型、弱类型的计算机语言，是EcmaScript的实现。
 优点：胶水性高，方便跨平台
 缺点：执行效率低于编译型语言，可以通过优化代码改善效率
 
+[返回目录](https://github.com/hanchn/couse-of-Javascript)
