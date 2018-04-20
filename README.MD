@@ -5,12 +5,11 @@
 ### 目录
 * [初识JS](https://github.com/hanchn/couse-of-Javascript/blob/master/Introduce.md)
    * [Hello World !](https://github.com/hanchn/couse-of-Javascript/blob/master/Introduce.md) 
-   * [注释](https://github.com/hanchn/couse-of-Javascript/blob/master/Comments.md)   
+   * [注释](https://github.com/hanchn/couse-of-Javascript/blob/master/Comments.md) * [输出与打印](#输出与打印)
 * [类型](https://github.com/hanchn/couse-of-Javascript/blob/master/Variable.md)
    * [变量](https://github.com/hanchn/couse-of-Javascript/blob/master/Variable.md)
    * [原始类型](https://github.com/hanchn/couse-of-Javascript/blob/master/DataType.md)
    * [类型转换](https://github.com/hanchn/couse-of-Javascript/blob/master/TypeConversion.md)
-   * [输出与打印](#输出与打印)
 * [数组列表](#数组列表)
 * [数据字典](#数据字典)
 * [条件判断及筛选语句](#条件判断及筛选语句)
@@ -23,43 +22,6 @@
 * [this](#this)
 
 
-
-### 基础类型
-
-JS（Javascript的缩写）是一门解释型，弱类型的语言。
-  1. 解释型：计算机所能识别的语言，和人类识别的语言不同，中间涉及翻译的过程，
-     编译方式分两种（逐行代码翻译和一次性编译，一次性编译完成之后下次直接启动
-     即可不需要再次编译，速度优于逐行编译）。
-  2. 弱类型：弱并非差，而是只不严格区分基础数据类型
-
-#### 变量定义
-JS通过var关键词进行变量定义，例如我们要定义一个数字可以使用以下方式:
-
-```
-var name = 10; // name 表示变量名； = 表示赋值操作； 10为所赋的值是多少
-```
-
-由于JS这门语言本身的不严谨性，导致即使在不使用var也可以进行变量定义，这个我们
-在后面小节会聊到。
-
-#### 类型
-
-JS中的基础数据类型有如下几种：
-
-   * 数字：整除、浮点数等数值
-   * 字符：用成对的单引号或者双引号进行包裹（引号包裹的数字也是字符）
-   * bool：布尔值，用于表示两种状态（0或者1、true或者false）
-   * null：表示状态无值
-   * undefined：表示状态未定义值
-
-```
-var a = 0;
-var b = 'Hello World !';  // 字符串是由引号（单引号或双引号）包裹的值
-var c = true;
-var d = null;
-var e = undefined;   
-```
-
 #### 类型转换
 
 不同基础类型之间可以进行相互转换，转换方式有两种，分别为隐式类型转换和显式类型
@@ -71,25 +33,5 @@ var e = undefined;
    * 转换为字符串类型：toString(radix)、String(mix)
    * 转换为布尔类型：Boolean(mix)
   
-隐式类型转换：
-
-   因为JS语言的不严谨性，在部分情况下也会发生类型转换，但并非人为故意操作得到的
-   结果。
-
-   1. 数字和字符（此处字符为数字）相加，得到的结果是字符串拼接，结果是字符/串，例：
-
-   ```
-   var a = 10;
-   var b = '20';
-   console.log(a + b); // 1020
-   ```  
-
-   2. 数字和字符相减，得到的结果是数值运算的结果，例：
-
-   ```
-   var a = 10;
-   var b = '20';
-   console.log(a - b); // -10
-   ```     
 
 **[回到目录](#目录)**  
