@@ -1,3 +1,5 @@
+# 《全解Ecmascript》
+
 ## 《十分钟快速入门Javascript》
 
 这是一本介绍Javascript的入门小书，内容丰富简短，从浅层带您快速入门Javascript。
@@ -26,4 +28,4 @@
 * [原型](#原型)
 * [this](#this)
 
-**[回到目录](#目录)**  
+**[回到目录](#十分钟快速入门javascript)**  
