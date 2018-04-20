@@ -31,7 +31,35 @@ let b = '20';
 console.log(a - b);  // -10
 ```
 
+3. 布尔转换
+
+布尔类型提供了两种状态：true 和 false
+
+在我们在匹配判断的时候，在值为非0的情况下，大多数值都可以被识别为状态true。
+
+```
+if(true){  // 判断当前的状态为true
+    console.log("可以被执行");
+}
+
+if(1){ // 判断当前状态为true
+    console.log("可以被执行");
+}
+```
+
+4. undefined和null弱相等
+
+在JS中 undefined和null是弱相等的。（弱相等：非严格匹配）
+
+```
+if(undefined == null ){
+    console.log("相等");
+}
+```
+
 ### 显式类型转换
+
+
 
 
 
