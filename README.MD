@@ -1,5 +1,3 @@
-# 《全解Ecmascript》
-
 ## 《十分钟快速入门Javascript》
 
 这是一本介绍Javascript的入门小书，内容丰富简短，从浅层带您快速入门Javascript。
@@ -8,7 +6,7 @@
 * [初识JS](https://github.com/hanchn/couse-of-Javascript/blob/master/Introduce.md)
    * [Hello World !](https://github.com/hanchn/couse-of-Javascript/blob/master/Introduce.md) 
    * [注释](https://github.com/hanchn/couse-of-Javascript/blob/master/Comments.md)
-   * [信息弹窗](#弹窗)
+   * [信息弹窗](https://github.com/hanchn/couse-of-Javascript/blob/master/Alert.md)
    * [日志打印](#日志打印)
 
 * [类型](https://github.com/hanchn/couse-of-Javascript/blob/master/Variable.md)
@@ -28,4 +26,4 @@
 * [原型](#原型)
 * [this](#this)
 
-**[回到目录](#十分钟快速入门javascript)**  
+**[回到目录](#目录)**  
