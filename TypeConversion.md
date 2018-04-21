@@ -70,6 +70,7 @@ if(undefined == null ){
   * ParseInt()：将值转换成整数值(取整操作)
   * ParseFloat()：将值转换成浮点数值
 
+
 [返回目录](https://github.com/hanchn/couse-of-Javascript)
 
 

@@ -68,3 +68,15 @@ NaN：表示特殊值非数字
 ```
 console.log(10 - 'test'); // NaN
 ```
+
+
+### 类型判断
+
+如果我们想要判断当前获取的值是什么类型，可以利用typeof进行判断：
+
+在**typeof**后面追加变量，可以获取变量类型
+
+```
+console.log(typeof 'test'); // string 
+```
+
