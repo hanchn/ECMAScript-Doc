@@ -11,6 +11,7 @@
 
 * [类型](https://github.com/hanchn/couse-of-Javascript/blob/master/Variable.md)
    * [变量定义](https://github.com/hanchn/couse-of-Javascript/blob/master/Variable.md)
+   * [变量](https://github.com/hanchn/couse-of-Javascript/blob/master/Variable.md)
    * [原始类型](https://github.com/hanchn/couse-of-Javascript/blob/master/DataType.md)
    * [类型转换](https://github.com/hanchn/couse-of-Javascript/blob/master/TypeConversion.md)
 * [运算符](#运算符)   
