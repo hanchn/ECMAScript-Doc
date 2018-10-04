@@ -15,13 +15,13 @@
     + [基础类型的检测与转换](./files/0105_基础类型的检测与转换.md)
     + [拓展:进制](./files/010405_进制.md)
 
-* [第二章：运算与条件语句](./)
+* 第二章：运算与条件语句
     + [运算符](./files/0201_运算符.md)
     + [条件语句](./files/0202_条件语句.md)
-      * [if else](./)
-      * [while do/ do while](./)
-      * [switch](./)
-      * [遍历](./)
+      * if else
+      * while do/ do while
+      * switch
+      * 遍历
         + [for in/of](./)
         + [foEach](./)
         + [some/every](./)
