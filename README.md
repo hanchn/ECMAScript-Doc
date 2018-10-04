@@ -1,4 +1,4 @@
-## JavaScript仓库
+## 深入JavaScript 《从ES5到ES8》
 
 * [引言](./)
 * [第一章：类型](./)
