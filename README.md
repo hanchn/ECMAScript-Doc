@@ -22,7 +22,7 @@
       * while do/ do while
       * switch
       * 遍历
-        + [for in/of](./)
+        + [for in/of](./files/0203_for遍历.md)
         + [foEach](./)
         + [some/every](./)
         + [map](./)
