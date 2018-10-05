@@ -25,16 +25,16 @@
       * break
       * continue
       * return
-      * 遍历
-        + [for in](./files/0203_for遍历.md)
-        + [for of](./files/0203_for遍历.md)
-        + [foEach](./files/0203_for遍历.md)
-        + [map](./)
+      * [遍历](./files/0203_for遍历.md)
+        + for in
+        + for of
+        + foEach
+        + map
       * 过滤  
         + [some](./)
         + [every](./)
         + [filter](./)
-      * [性能比较](./)
+    
 
 * [第三章：定时器](./)  
     + [setTimeOut](./)
