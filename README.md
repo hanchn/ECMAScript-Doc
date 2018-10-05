@@ -38,8 +38,8 @@
 * [第三章：对象](./files/0300_对象.md)
     + 数据结构
       * [数组](./files/030101_数组.md)
-      * [JSON](./files/030102_JSON.md)
-      * [Map](./)
+      * [Map](./files/030102_Set.md)
+      * [类JSON数据格式](./files/030103_JSON.md)
       * [Set](./)
 
     + [函数](./)  
