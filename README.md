@@ -30,7 +30,7 @@
       * for of
       * foEach
       * map
-    + [过滤](./files/0204_过滤.md)
+    + [条件过滤](./files/0204_条件过滤.md)
       * some
       * every
       * filter
