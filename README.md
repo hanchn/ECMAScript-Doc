@@ -25,15 +25,15 @@
       * break
       * continue
       * return
-      * [遍历](./files/0203_for遍历.md)
-        + for in
-        + for of
-        + foEach
-        + map
-      * 过滤  
-        + [some](./)
-        + [every](./)
-        + [filter](./)
+    +[遍历](./files/0203_for遍历.md)
+      * for in
+      * for of
+      * foEach
+      * map
+    + 过滤  
+      * [some](./)
+      * [every](./)
+      * [filter](./)
     
 
 * [第三章：定时器](./)  
