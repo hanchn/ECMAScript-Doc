@@ -25,12 +25,12 @@
       * break
       * continue
       * return
-    + [遍历](./files/0203_for遍历.md)
+    + [遍历](./files/0203_遍历.md)
       * for in
       * for of
       * foEach
       * map
-    + [过滤](./)
+    + [过滤](./files/0204_过滤.md)
       * some
       * every
       * filter
