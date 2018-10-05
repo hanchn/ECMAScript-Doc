@@ -30,10 +30,10 @@
       * for of
       * foEach
       * map
-    + 过滤  
-      * [some](./)
-      * [every](./)
-      * [filter](./)
+    + [过滤](./)
+      * some
+      * every
+      * filter
     
 
 * [第三章：定时器](./)  
