@@ -21,11 +21,15 @@
       * if else
       * while do/ do while
       * switch
+      * try catch
+      * break
+      * continue
+      * return
       * 遍历
         + [for in/of](./files/0203_for遍历.md)
-        + [foEach](./)
-        + [some/every](./)
+        + [foEach](./files/0203_for遍历.md)
         + [map](./)
+        + [some/every/filter](./)
         + [性能比较](./)
 
 * [第三章：定时器](./)  
