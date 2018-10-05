@@ -38,9 +38,9 @@
 * [第三章：对象](./files/0300_对象.md)
     + 数据结构
       * [数组](./files/030101_数组.md)
-      * [Map](./files/030102_Set.md)
+      * [Set](./files/030102_Set.md)
       * [类JSON数据格式](./files/030103_JSON.md)
-      * [Set](./files/030104_Map.md)
+      * [Map](./files/030104_Map.md)
 
     + [函数](./)  
       * [执行上下文与函数作用域](./)
