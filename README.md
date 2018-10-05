@@ -43,8 +43,7 @@
       * [类JSON数据格式](./files/030103_JSON.md)
       * [Map](./files/030104_Map.md)
 
-    + [函数](./)  
-      * 返回值
+    + [函数](./files/0302_函数.md)  
     + [Object](./)
         [...](./)
     + [Function](./)
