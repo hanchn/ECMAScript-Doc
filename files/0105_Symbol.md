@@ -4,6 +4,7 @@
 * 表示独一无二的变量名（和const有区别，const表示不可修改的值）
 * 可以显式转换成字符（toString）
 * Symbol定义的变量名永远不相等
+* 不能用点运算符调用对象（Symbol）属性名
 
 ### 定义Symbol类型的变量名
 
@@ -34,8 +35,8 @@ console.log(s1 == s2); // false
 
 |属性名|释义|
 |:--:|:--:|
-|Symbol.for|''|
-|Symbol.keyFor|''|
+|Symbol.for()|合并重复声明的Symbol属性|
+|Symbol.keyFor()|返回一个已登记的 Symbol 类型值的key|
 |Symbol.hasInstance|''|
 |Symbol.isConcatSpreadable|''|
 |Symbol.species|''|
