@@ -114,6 +114,8 @@
     魔术字符串
     unicode
     Symbol拓展
+    window
+    nodejs
   ```
 值类型与引用类型
 各种定义方式的区别
